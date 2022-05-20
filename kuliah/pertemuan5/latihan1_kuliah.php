@@ -18,7 +18,7 @@ $myArray = [100, "Imam", true];
 
 // Menampilkan Array
 // menampilkan 1 elemen menggunakan index, dimulai dari 0
-echo $hari[1];
+echo $hari[];
 echo "<br>";
 echo $bulan[2];
 echo "<hr>";
